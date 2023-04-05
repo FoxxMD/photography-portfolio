@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "https://foxxmd.github.io/photography-portfolio"
+baseurl: "https://foxx.photos"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: ""
@@ -14,7 +14,7 @@ header:
 footer:
  name: "Hi! I'm Matt Foxx (FoxxMD)"
  bio: "I'm a full-stack developer, outdoor adventurist, and sometimes a photographer. These are just a few of my favorite captured moments."
- github: "Find my a href=\"https://matthewfoxx.com\">developer portfolio here.</a> This photography showcase was created by <a href=\"https://github.com/ramswaroop/photography\">Ram Patra</a>, check out there amazing work as well!"
+ github: "Find my <a href=\"https://matthewfoxx.com\">developer portfolio here.</a> This photography showcase was created by <a href=\"https://github.com/ramswaroop/photography\">Ram Patra</a>, check out there amazing work as well!"
 web_design: "AJ"
 social_urls:
   #facebook: "https://www.facebook.com/ramswaroop"
